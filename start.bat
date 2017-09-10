@@ -1,0 +1,3 @@
+node tradesell.js
+
+pause
